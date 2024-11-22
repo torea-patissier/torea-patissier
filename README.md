@@ -1,16 +1,15 @@
-
 # 💫 About Me:
-🚀 Full Stack Developer with a passion for crafting innovative digital solutions. Currently working as a Freelance Full Stack Developer, where I specialize in developing web and mobile applications.
+🚀 I am a Full Stack Developer passionate about creating innovative digital solutions. As a Freelance Full Stack Developer, I specialize in building sophisticated web and mobile applications that deliver real value.
 
-💡 With experience in both front-end and back-end development, I've successfully delivered projects across various domains. 🚀 My journey includes working at a startup where I specialized in Next.js and Node.js development, as well as an internship at 🍊 Orange in Marseille focusing on Laravel and the PHP ecosystem.
+💡 My comprehensive experience in both front-end and back-end development has enabled me to successfully deliver projects across diverse industries. My professional journey includes valuable experience at a startup, where I honed my skills in Next.js and Node.js development. I also completed an enriching internship at 🍊 Orange in Marseille, where I focused on Laravel development and gained deep insights into the PHP ecosystem.
 
 🛠️ My technical expertise spans across both JavaScript and PHP technologies, including:
-⚛️ React
-🔄 Next.js 
-📦 Node.js
-📝 TypeScript
-📱 React Native
-🐘 Laravel
+- ⚛️ React
+- 🔄 Next.js 
+- 📦 Node.js
+- 📝 TypeScript
+- 📱 React Native
+- 🐘 Laravel
 
 🌟 Key Highlights:
 - Led development of multiple full-stack applications using React, Next.js, and PHP frameworks
@@ -23,7 +22,7 @@
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/liamhdin-gaston) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torea-patissier/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/toreapat/)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

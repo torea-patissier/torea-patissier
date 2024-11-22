@@ -2,6 +2,7 @@
 🚀 I am a Full Stack Developer passionate about creating innovative digital solutions. I specialize in building web and mobile applications that deliver real value.
 
 💡 My professional journey includes valuable experience for Listn, a startup based in Toulouse, where I honed my skills in Next.js and Node.js development.
+
 I also completed an enriching internship at 🍊 Orange in Marseille, where I focused on Laravel development and gained deep insights into the PHP ecosystem.
 
 ## 🛠️ My preferred stack :
@@ -64,6 +65,9 @@ Key Features:
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify%20API-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 
 # 🌐 Socials:

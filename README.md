@@ -4,7 +4,7 @@
 💡 My professional journey includes valuable experience for Listn, a startup based in Toulouse, where I honed my skills in Next.js and Node.js development.
 I also completed an enriching internship at 🍊 Orange in Marseille, where I focused on Laravel development and gained deep insights into the PHP ecosystem.
 
-# 🛠️ My preferred stack
+## 🛠️ My preferred stack :
 - 🔄 Next.js 
 - 📦 Node.js
 - 📝 TypeScript
@@ -19,9 +19,38 @@ I also completed an enriching internship at 🍊 Orange in Marseille, where I fo
 
 🌍 Actually based in La Réunion, I bring a unique perspective to global tech solutions while maintaining strong connections with the European tech ecosystem.
 
+# The projects I've worked on :
+## Listn - Music Social Network
+🎵 [Listn](https://listn.live/) - A social network platform for music enthusiasts
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torea-patissier/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/toreapat/)
+Key Features:
+- Real-time music sharing and discovery
+- Integration with major streaming platforms
+- Social interaction features for music lovers
+- Mobile-first responsive design
+
+Tech Stack:
+- Next.js for frontend development
+- Node.js backend with real-time capabilities
+- TypeScript for enhanced code reliability
+- MySQL database for data management
+
+## Orange - Internship
+🍊 [Orange](https://www.orange.com/) - French multinational telecommunications corporation
+
+Key Features:
+- Developed a Laravel application for Orange's internal use
+- Implemented features for managing customer subscriptions and services
+- Enhanced user experience with improved UI/UX design
+
+Tech Stack:
+- Laravel for backend development
+- MySQL database for data management
+- Tailwind CSS for styling
+
+## Isola13 - Freelance Project
+🏗️ [Isola13](https://isola13.fr/) - Freelance project for a professional tiling contractor based in Aix-en-Provence
+
 
 # 💻 Tech Stack I use to work with :
 ### Languages
@@ -59,4 +88,5 @@ I also completed an enriching internship at 🍊 Orange in Marseille, where I fo
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
-
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/torea-patissier/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/toreapat/)
